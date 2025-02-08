@@ -1,0 +1,15 @@
+body{
+    background-image: url('https://img.freepik.com/premium-vector/poker-table-background-green-color_47243-1073.jpg?w=996');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+
+.backgroundImg {
+    
+    max-width: 100%;
+    background-color: olive;
+    padding: 10px;
+}
